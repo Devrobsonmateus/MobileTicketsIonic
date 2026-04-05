@@ -12,7 +12,9 @@
 |:---:|:---:|
 | ![Painel de Fichas](./printsTela/painel.png) | ![Totem](./printsTela/totemSenhas.png) |
 | **Guichê (Atendente)** | **Relatórios** |
-| ![Guichê](./printsTela/guiche.png) | ![Relatório](./printsTela/relatorio.png) |
+| ![Guichê] <img width="1917" height="873" alt="guiche" src="https://github.com/user-attachments/assets/ef1cb3a3-b7ef-4a57-89da-79c6844b3e57" />
+ | ![Relatório] <img width="1915" height="872" alt="relatorio" src="https://github.com/user-attachments/assets/1989f54a-bf50-49a7-838a-50a138c54ad1" />
+ |
 
 <br>
 
